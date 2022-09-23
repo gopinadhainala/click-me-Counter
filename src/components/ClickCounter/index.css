@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f1f5f8;
+}
+.heading {
+  color: #2d3a35;
+  font-size: 40px;
+  text-align: center;
+}
+.clicks {
+  color: #c20a72;
+  text-align: center;
+}
+.paraText {
+  color: #2d3a35;
+}
+.buttonStyle {
+  background-color: #007bff;
+  color: #ffffff;
+  padding: 10px;
+  outline: none;
+  cursor: pointer;
+  border: 0px;
+  border-radius: 4px;
+}
